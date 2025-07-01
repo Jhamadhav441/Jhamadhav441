@@ -3,13 +3,14 @@
 
 - 🌱 I’m currently learning **Data Analysis Tools**
 
-- 📝 I regularly write articles on linkedin [www.linkedin.com/in/jhamadhav441](www.linkedin.com/in/jhamadhav441)
+- 📝 I regularly write articles on linkedin www.linkedin.com/in/jhamadhav441
 
 - 💬 Ask me about **Python, Pandas,Numpy**
 
 - 📫 How to reach me **jhamadhav441@gmail.com**
 
 - 📄 Know about my experiences www.linkedin.com/in/jhamadhav441
+- Portfolio https://sites.google.com/view/madhavjhaportfolio
 
 
 <h3 align="left">Connect with me:</h3>
