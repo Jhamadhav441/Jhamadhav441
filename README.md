@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **jhamadhav441@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/jhamadhav441](www.linkedin.com/in/jhamadhav441)
+- 📄 Know about my experiences www.linkedin.com/in/jhamadhav441
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
